@@ -1,2 +1,3 @@
-# LI
-Some spare SWI-Prolog problems
+# Laboratori de LI
+
+Collection of SWI-Prolog exercises
